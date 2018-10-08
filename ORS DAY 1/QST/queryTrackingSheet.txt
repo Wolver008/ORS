@@ -1,0 +1,5 @@
+
+
+	1) Do we have to create resource manager table seperatly ?
+	2) Should we create table for short listed employee ?
+	3) 
